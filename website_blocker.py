@@ -1,7 +1,6 @@
 import time
 from datetime import datetime as dt
 
-#hosts_temp=r"D:\Dropbox\pp\block_websites\Demo\hosts"
 hosts_path="/etc/hosts"
 ip="127.0.0.1"
 website_list=["facebook.com", "espn.com", "sports.yahoo.com", "wired.com", "reddit.com", "fanduel.com"]
